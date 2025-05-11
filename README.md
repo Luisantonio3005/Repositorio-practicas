@@ -1,3 +1,3 @@
 # Repositorio practicas 
 
-##Este repositorio es para mi repositorio
+##Este repositorio es para mis practicas
