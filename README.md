@@ -1,3 +1,3 @@
-# Pagina-web-de-Luisantonio3005
+# Repositorio practicas 
 
-##Este repositorio es para mi pagina web
+##Este repositorio es para mi repositorio
